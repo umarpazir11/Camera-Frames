@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Camera Frames</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Menu Items -->
+    <string name="save">Save</string>
+    <string name="clean">Clean</string>
+    
+</resources>
